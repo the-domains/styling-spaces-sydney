@@ -1,7 +1,7 @@
 name: Styling Spaces Sydney
 favicon: null
-layout_spectrum: 0.10754281585104764
-typography_spectrum: 0.10760529013350606
+layout_spectrum: 1
+typography_spectrum: 0.83016
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
-  brandStrength: 0.2958035010378808
-  lightness: 0.030394204193726182
-  saturation: 0.2207646321039647
-  rhythmicContrast: 0.03198167448863387
+    - '#ffffff'
+    - '#060606'
+    - '#646464'
+    - '#9f9f9f'
+    - '#c6c6c6'
+  brandStrength: 0.5
+  lightness: 1
+  saturation: 0
+  rhythmicContrast: 0.25
 purpose: []
